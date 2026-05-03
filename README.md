@@ -97,6 +97,4 @@ Key takeaways:
 
 This project demonstrates the importance of dashboards in **business intelligence and data-driven decision-making**.
 
----
 
-## 📁 Project Structure
